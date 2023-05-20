@@ -1,0 +1,12 @@
+/* Keyframes; Controla as etapas em uma sequência de animação CSS, definindo os estilos para quadros-chave. Para editar quadro a quadro espcífico use porcentagens, mas para somente sair de um estado para outro utilize o (from == initial stage) e (to == final stage) */
+
+@keyframes entering {
+  from {
+    opacity: 0;
+    transform: translateY(-200px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

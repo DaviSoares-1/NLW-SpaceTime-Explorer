@@ -1,0 +1,9 @@
+/* CSS Reset & General configs */
+@import "./global.css";
+
+/* Keyframes animations */
+@import "./animacoes.css";
+
+/* Layout Content */
+@import "./profile.css";
+@import "./timeline.css";
