@@ -13,5 +13,5 @@ Esse projeto foi desenvolvido durante o NLW#12 da Rocketseat com as seguintes te
 - Git e Github
 
 ## 🏷️ Layout
-Você pode visualizar o layout do projeto através 
+Você pode visualizar o projeto no ar através 
 [desse link](https://nlw-spacetime-explorer.netlify.app/).
